@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lamborghini Centenario Lp-770 Interior Sdc
+* source:	https://sketchfab.com/3d-models/lamborghini-centenario-lp-770-interior-sdc-86fe79b55e3549f1948bd20e5dcaaa36
+* author:	zacharyvanhart (https://sketchfab.com/zacharyvanhart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lamborghini Centenario Lp-770 Interior Sdc" (https://sketchfab.com/3d-models/lamborghini-centenario-lp-770-interior-sdc-86fe79b55e3549f1948bd20e5dcaaa36) by zacharyvanhart (https://sketchfab.com/zacharyvanhart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

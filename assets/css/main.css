@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html body {
+  display: flex;
+}
+html body .left {
+  position: relative;
+}
+html body .left .loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+}
+html body canvas {
+  cursor: move;
+}
+html body .text {
+  width: 45%;
+  margin: auto;
+  max-height: 100vh;
+  overflow: scroll;
+  background-color: #afafaf;
+  padding: 0.5rem;
+}

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lamborghini Aventador LP700
+* source:	https://sketchfab.com/3d-models/lamborghini-aventador-lp700-67796ac0bfa54c5cbe34dffc9847264d
+* author:	CaptainDavid100k (https://sketchfab.com/CaptainDavid100k)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lamborghini Aventador LP700" (https://sketchfab.com/3d-models/lamborghini-aventador-lp700-67796ac0bfa54c5cbe34dffc9847264d) by CaptainDavid100k (https://sketchfab.com/CaptainDavid100k) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

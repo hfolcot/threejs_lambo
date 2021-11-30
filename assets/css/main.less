@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    body {
+        display: flex;
+        .left {
+            position: relative;
+            .loader {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                color: white;
+                
+            }
+        }
+        canvas {
+            cursor: move;
+        }
+        .text {
+            width: 45%;
+            margin: auto;
+            max-height: 100vh;
+            overflow: scroll;
+            background-color: #afafaf;
+            padding: 0.5rem;
+        }
+    }
+}
